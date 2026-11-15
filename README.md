@@ -8,6 +8,8 @@ This page compares the usual answers side by side — Visual Subst, vSubst, Fold
 
 Official product pages: ScsSubst <https://subst.scsoi.com/> · sibling product ScsDrive <https://drive.scsoi.com/>
 
+中文版：[README.zh-CN.md](README.zh-CN.md)（Visual Subst / vSubst / FolderMount 替代同框对比，含 subst.scsoi.com 明文）
+
 ## The three questions that pick the tool
 
 1. **Session-scoped or system-level?** `subst` creates the drive letter inside the current logon session; a service running as SYSTEM or another account resolves a different path.
